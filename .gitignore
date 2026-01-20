@@ -1,0 +1,16 @@
+# Folder Sampah Node JS
+node_modules/
+npm-debug.log
+
+# Folder Upload Foto (Biar foto user ga ikut ke Github)
+uploads/
+*.exe
+*.exe~
+
+# File Environment (Rahasia)
+.env
+
+# Folder Build Go
+main
+main.exe
+tmp/
